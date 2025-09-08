@@ -1,8 +1,6 @@
-# React + Vite
+# Instruções 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O projeto consiste em uma To-Do List, onde o usuário tem a opção de adicionar uma nova tarefa, excluir e editá-la.
+Para rodá-la localmente basta acessar o site: 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Link Para o Site](https://jimmy2202.github.io/ZeineTask/))
